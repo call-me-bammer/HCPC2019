@@ -15,8 +15,10 @@
 
 * ## Reference Site
 
-C/C++: http://cplusplus.com | https://en.cppreference.com/w/\
-JAVA: http://docs.oracle.com/javase/\
+C/C++: http://cplusplus.com | https://en.cppreference.com/w/
+\
+JAVA: http://docs.oracle.com/javase/
+\
 Python: https://docs.python.org/3/
 
 * ## Compile option / Language
