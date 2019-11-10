@@ -1,5 +1,7 @@
 # HCPC 2019
 
+* Write up Status
+
 - [x] A.
 - [ ] B.
 - [ ] C.
@@ -12,7 +14,7 @@
 - [ ] K.
 
 
-* c11 compile option
+>C11 compile option
 
 ~~~c
 gcc a.c -o a.out -O2 -Wall -lm -static -std=c11 -DONLINE_JUDGE -DBOJc
